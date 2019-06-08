@@ -1,0 +1,15 @@
+On Instagram users are not allowed to download their images they had posted. What if user do not have those images with them at an instant. They are left with no choice to take screenshots of those images they wanted. Screenshots of the images adds up impurity of section of pixels which shows system interfaces and other unwanted section and user have to crop them as per their use. This adds a lot of complexity in getting a single image which belongs to even user only. Also, Instagram does not provide the report of images users posted on the weekly or monthly basis. If users do not know which images, they have posted earlier a month ago they can repost those images or even if user wants to show the previous image, they need to post same image again as user does not have track of back posts which adds extra data to social platform which is irrelevant. And if user have those track they can simply reshare their post with new information.
+
+Run login.py
+
+And Provide Input as:
+Search on Instagram public page:
+•	 Username of Public Instagram account
+Login to user private account:
+•	Username of Private Instagram account
+•	Password of Private Instagram account
+
+And Output as:
+
+•	List of downloaded images from Instagram account
+•	Collage of downloaded images
